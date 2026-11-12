@@ -1,0 +1,15 @@
+{
+  "name": "RSV · Control de Móviles",
+  "short_name": "RSV Móviles",
+  "description": "Control de móviles de la Red de Seguridad Vecinal, Municipalidad de San Ramón",
+  "lang": "es-CL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8fb",
+  "theme_color": "#6b4078",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
