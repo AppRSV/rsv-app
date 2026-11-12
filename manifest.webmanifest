@@ -1,6 +1,6 @@
 {
-  "name": "RSV · Control de Móviles",
-  "short_name": "RSV Móviles",
+  "name": "RSV",
+  "short_name": "RSV",
   "description": "Control de móviles de la Red de Seguridad Vecinal, Municipalidad de San Ramón",
   "lang": "es-CL",
   "start_url": "./",
